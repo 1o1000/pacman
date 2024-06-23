@@ -1,0 +1,22 @@
+**************************************************************************
+CONTROLS
+-----------------
+W -> TOP
+S -> BOTTOM
+A -> LEFT
+S -> RIGHT
+ESC -> PAUSE GAME
+**************************************************************************
+UPGRADES
+-----------------
+THE GAME HAS 5 UPGRADES WITH 25% OF CHANCE THAT GHOSTS CAN CREATE THEM
+-----------------
+STRAWBERRY - INCREASES POINTS YOU GET FROM DOTS
+ACCELERATE -- INCREASES PACMAN'S VELOCITY
+PAUSE -- FREEZES EVERY GHOSTS
+KILL -- RETURNS EVERY GHOST TO SPAWN LOCATION
+HEALTH -- ADDS ONE MORE LIVE TO PACMAN'S LIVES
+**************************************************************************
+Pacman has 3 lives as default. But can be increased by upgrades that can becreated by ghosts. Ghosts has 25% chance of create on of 5 upgrades every 5seconds. Player needs to collect all the dots in order to win the game. If player runs out of lives before collecting all of them, player loses. Afterevery result (WIN or LOSE) player will see a menu with 2 options. The options are:
+  - Save your score -> Adds player's score to leaderbord and return them to home screen
+  - Return to home -> This option return player to main screen. Though, this time the score will not be recorded.
